@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[application/static/images/logo-512.png](https://cdn.phototourl.com/free/2026-07-16-f16cdce1-9c7f-455a-ac48-f02eb760e596.png)" alt="Free Market logo" width="96" height="96">
+<img src="https://cdn.phototourl.com/free/2026-07-16-f16cdce1-9c7f-455a-ac48-f02eb760e596.png" alt="Free Market logo" width="96" height="96">
 
 # Free Market  FMK
 
